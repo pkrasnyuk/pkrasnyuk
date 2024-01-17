@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![pkrasnyuk profile views](https://u8views.com/api/v1/github/profiles/5937398/views/day-week-month-total-count.svg)](https://u8views.com/github/pkrasnyuk)
-<a href="https://u8views.com/github/pkrasnyuk"><img src="https://u8views.com/api/v1/github/profiles/5937398/views/day-week-month-total-count.svg"></a>
