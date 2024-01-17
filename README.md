@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Profile views counter
+
 [![pkrasnyuk profile views](https://u8views.com/api/v1/github/profiles/5937398/views/day-week-month-total-count.svg)](https://u8views.com/github/pkrasnyuk)
+
+
+### My stats
+
+![pkrasnyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkrasnyuk&show_icons=true&theme=transparent)
