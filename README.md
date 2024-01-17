@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 
 ### My stats
 
-![pkrasnyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkrasnyuk&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkrasnyuk&layout=compact&theme=transparent)
+![Stats](https://myreadme.vercel.app/api/embed/pkrasnyuk?panels=userstatistics,toprepositories,toplanguages,commitgraph)
